@@ -1,0 +1,15 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.title {
+    background-color: aquamarine;
+    padding: 10px;
+    font: 2em;
+}
+
+.sample {
+    color: blueviolet;
+    margin-top: 2em;
+}
